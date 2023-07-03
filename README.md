@@ -1,4 +1,4 @@
-# expert-tribble
+# expert-tribble/my first repo
 I chose nodejs over ionic (web to android &amp; ios) and php and I'm finally making progress thanks to Hellinski university for providing the training and Maseno university for providing the challenge.
 Learning should be fun and easy, but finding the right information online can be tough, this is why I share what I think is worth sharing.
 You have to set up everything from the top. First go to github, create a repository, then right click to open terminal cd to gates > project folder  then type git clone with https link after clicking copy code from github, assumning you alreay have git installed on your computer.
